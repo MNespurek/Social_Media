@@ -1,0 +1,3 @@
+auto	1	false	Michal	
+auto	2	true	Michal
+auto	3	true	Michal	
